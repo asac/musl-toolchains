@@ -1,0 +1,1 @@
+Cross-compiler prefix built by musl-cross a945614feb1e: http://www.bitbucket.org/GregorR/musl-cross
